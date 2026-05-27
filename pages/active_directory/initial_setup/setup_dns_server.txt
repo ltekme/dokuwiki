@@ -1,5 +1,4 @@
 ====== Windows DNS Server With Custom Domain ======
-
 To setup active directory, it is recommended to have a local sub-domain to e.g. ad.example.com instead of directly using the TLD, otherwise you are going to run into split brain problems down the road. 
 
 The best way to do that is to have a sub domain from your TLD to be hosted on the domain controller as a primary forward lookup zone. After setting up the domain controller role, the zone can be converted to a Active Directory integrated primary zone.
@@ -8,7 +7,6 @@ After this server is setup, all the domain clients DNS has to point to this DNS 
 
 To keep things simple, the DNS server should be setup on the domain controller. You can have it running on a different server, but it can get a bit flakey when it comes to syncing AD records.
 
-===== Steps Overview =====
 
 
  
