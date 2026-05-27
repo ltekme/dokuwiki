@@ -1,0 +1,21 @@
+====== Active Directory ======
+Love it or hate it, its everywhere, it's a nightmare you can't escape.:-?
+
+**Setting Up Active Directory**
+
+  * [[active_directory:initial_setup:setup_dns_server|Setting up DNS Server]]:!:
+  * [[active_directory:initial_setup:setup_domain_controller|Setting up Domain Controller]]:!:
+  * [[active_directory:initial_setup:first_user|Your First User]]:!:
+  * [[active_directory:initial_setup:first_computer|Your First Computer]]:!:
+
+**Group Policies**
+
+  * [[active_directory:group_policies:first_computer|Remote Desktop Access]]:!:
+  * [[active_directory:group_policies:remote_folder|User Remote Folder]]:!:
+
+**Artifacts**
+
+  * [[active_directory:artifacts:samba_server|Samba File Server Because I Hate Myself]]:!:
+
+
+:!: Items are incomplete or not started

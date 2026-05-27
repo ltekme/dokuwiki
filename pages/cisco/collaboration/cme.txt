@@ -1,0 +1,2 @@
+====== Setting Up CME ======
+This document provides a simple guide for setting up CME for phone registration and simple call routing.
