@@ -1,0 +1,3 @@
+Welcome to my [[https://www.dokuwiki.org/dokuwiki|dokuwiki]] where I put all my documentation... if I am not too lazy to write it. 
+
+Test Git
