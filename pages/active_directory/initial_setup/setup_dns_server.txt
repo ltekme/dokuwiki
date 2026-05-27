@@ -7,6 +7,10 @@ After this server is setup, all the domain clients DNS has to point to this DNS 
 
 To keep things simple, the DNS server should be setup on the domain controller. You can have it running on a different server, but it can get a bit flakey when it comes to syncing AD records.
 
+===== Steps Overview =====
+  - Add Windows DNS Server Role
+  - Add DNS Zone
+  - Configure Windows DNS Settings
 
 
  
